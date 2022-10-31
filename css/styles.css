@@ -1,0 +1,49 @@
+
+h1{
+  color: #00ABB3;
+  font-style: italic;
+
+}
+h2{
+  color: #00ABB3;
+}
+h3{
+  color: #00ABB3;
+}
+body {
+  background-color: #064663;
+}
+/*img{
+  background-color:red;
+}*/
+.Brocollie{
+  background-color:green;
+}
+.love{
+  background-color: Red;
+}
+#heading{
+   color:white;
+}
+#row1{
+  font-style: italic;
+  color: white;
+
+}
+.circular{
+  border-radius: 80%;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+  hr{
+
+    border-style: dotted none none;
+    border-top-color:#B2B2B2;
+    border-width:5px;
+
+
+    width:30px;
+  }
